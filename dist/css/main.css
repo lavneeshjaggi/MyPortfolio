@@ -130,6 +130,10 @@ a {
   color: white;
   text-decoration: none; }
 
+.Nebula {
+  color: #B9D0C3;
+}
+
 header {
   position: fixed;
   z-index: 2;
